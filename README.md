@@ -21,3 +21,8 @@ Sample code used in the workshop:
 - Sample Python code 
 - Sample NodeJS backend code
 - Sample React front-end code
+
+## Links
+
+- [Poll questions](https://pollev.com/ruthkurniawa162)
+- [AWS Educate](https://aws.amazon.com/education/awseducate/)
