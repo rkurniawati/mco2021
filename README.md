@@ -7,7 +7,6 @@ Science Classes
 - Presenter: Ruth Kurniawati
 - Date/time: Wed June 2nd, 2021 11:00-11:50am EDT
 - Presentation slides can be found [here](https://westfieldstateuniversity-my.sharepoint.com/:b:/g/personal/rkurniawati_westfield_ma_edu/EWje0tqNEI1CmsI4qEIpg4UBhFMOfmKNNFyP9bdELJfLUg?e=wvbOEz).
-- Sign up for [AWS Educate Classroom](https://westfieldstateuniversity-my.sharepoint.com/:x:/g/personal/rkurniawati_westfield_ma_edu/EYBaR3auaxFEnj3k3EtTYuYBc3QJuf7i-t2MFXOSMOEUlA?e=ONW6yg). If you're an instructor, please create your AWS Educate first and you will see the classroom invitation when you login to the account. The new user invitation will work as expected if you're a student. 
 
 ## Summary
 
